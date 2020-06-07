@@ -4,7 +4,7 @@
 以下、各ファイルの簡単な説明です
 
 ### dish_recipe-qty.ipynb
-> 各都市の特定の料理のレシピ数を可視化しました
+> 各年の特定の料理のレシピ数を可視化しました
 
 
 ### moco's_related_recipe_index.iypnb
