@@ -3,12 +3,12 @@
 
 各ファイルの簡単な説明
 
-・dish_recipe-qty.ipynb
+### dish_recipe-qty.ipynb
 
 各都市の特定の料理のレシピ数を可視化しました
 
 
-・moco's_related_recipe_index.iypnb
+#### moco's_related_recipe_index.iypnb
 
 モコズキッチン関連のワードが使われているレシピidを抽出し、csvファイルに書き込みました
 
